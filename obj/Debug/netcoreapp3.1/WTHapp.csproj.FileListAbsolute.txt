@@ -1,0 +1,16 @@
+D:\Projects\dotnetTests\WTHapp\bin\Debug\netcoreapp3.1\WTHapp.exe
+D:\Projects\dotnetTests\WTHapp\bin\Debug\netcoreapp3.1\WTHapp.deps.json
+D:\Projects\dotnetTests\WTHapp\bin\Debug\netcoreapp3.1\WTHapp.runtimeconfig.json
+D:\Projects\dotnetTests\WTHapp\bin\Debug\netcoreapp3.1\WTHapp.runtimeconfig.dev.json
+D:\Projects\dotnetTests\WTHapp\bin\Debug\netcoreapp3.1\WTHapp.dll
+D:\Projects\dotnetTests\WTHapp\bin\Debug\netcoreapp3.1\WTHapp.pdb
+D:\Projects\dotnetTests\WTHapp\obj\Debug\netcoreapp3.1\WTHapp.csprojAssemblyReference.cache
+D:\Projects\dotnetTests\WTHapp\obj\Debug\netcoreapp3.1\WTHapp.AssemblyInfoInputs.cache
+D:\Projects\dotnetTests\WTHapp\obj\Debug\netcoreapp3.1\WTHapp.AssemblyInfo.cs
+D:\Projects\dotnetTests\WTHapp\obj\Debug\netcoreapp3.1\WTHapp.dll
+D:\Projects\dotnetTests\WTHapp\obj\Debug\netcoreapp3.1\WTHapp.pdb
+D:\Projects\dotnetTests\WTHapp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Projects\dotnetTests\WTHapp\obj\Debug\netcoreapp3.1\WTHapp.csproj.CopyComplete
+D:\Projects\dotnetTests\WTHapp\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Projects\dotnetTests\WTHapp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\dotnetTests\WTHapp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
